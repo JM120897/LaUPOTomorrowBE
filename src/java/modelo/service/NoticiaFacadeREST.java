@@ -87,4 +87,5 @@ public class NoticiaFacadeREST extends AbstractFacade<Noticia> {
     protected EntityManager getEntityManager() {
         return em;
     }
+
 }
